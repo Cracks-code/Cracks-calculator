@@ -1,0 +1,13 @@
+nav{
+    background: linear-gradient(41deg, #f748a5d3, #615efaee);
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    overflow: hidden;
+    z-index: 10;
+}
+
+
+btn-primary{
+    border-radius: 30px;
+    overflow: hidden;
+}
